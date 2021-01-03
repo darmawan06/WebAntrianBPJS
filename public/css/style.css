@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Staatliches&display=swap');
+
+.font-primary{
+    font-family: 'Staatliches', cursive;
+}
+
+.font-second{
+    font-family: 'Crimson Text', serif;
+}
